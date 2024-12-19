@@ -12,5 +12,6 @@ public class Basic_Set_1 {
         set.add(-8);
         set.add(34);
         System.out.println(set);
+        System.out.println(set);
     }
 }
