@@ -2,7 +2,7 @@ package Recursion_13;
 
 import java.util.Scanner;
 
-public class Maze_Path_6 {
+public class Imp_Maze_Path_6 {
     public static int maze(int i,int j,int row,int col){
         if(i==row || j==col) return 1;
         int rightways=maze(i,j+1,row,col);
