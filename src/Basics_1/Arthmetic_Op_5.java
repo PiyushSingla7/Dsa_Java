@@ -1,5 +1,4 @@
 package Basics_1;
-
 public class Arthmetic_Op_5 {
     public static void main(String[] args) {
         int x = 5, y = 2;
